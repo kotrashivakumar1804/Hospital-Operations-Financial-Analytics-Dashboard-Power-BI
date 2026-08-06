@@ -132,31 +132,8 @@ Data preparation included:
 
 > Add screenshots of Dashboard 1, Dashboard 2, and Dashboard 3 here.
 
----
 
-# 📁 Repository Structure
-Hospital-Operations-Financial-Analytics-Dashboard/
-│
-├── Dashboard/
-│ └── Hospital_Operations_Analytics.pbix
-│
-├── Dataset/
-│ └── Cleaned_Hospital_Dataset.csv
-│
-├── Python/
-│ └── Data_Cleaning.ipynb
-│
-├── Documentation/
-│ └── Business_Insights.pdf
-│
-├── Images/
-│ ├── Dashboard1.png
-│ ├── Dashboard2.png
-│ └── Dashboard3.png
-│
-└── README.md
 
----
 
 # 🚀 Future Enhancements
 
