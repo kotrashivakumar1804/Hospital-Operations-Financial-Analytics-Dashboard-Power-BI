@@ -130,9 +130,9 @@ Data preparation included:
 
 # 📷 Dashboard Preview
 
-> Add screenshots of Dashboard 1, Dashboard 2, and Dashboard 3 here.
-
-
+- Dashboard 1  :- https://github.com/kotrashivakumar1804/Hospital-Operations-Financial-Analytics-Dashboard-Power-BI/blob/main/Dashboard-1.png
+- Dashboard 2  :- https://github.com/kotrashivakumar1804/Hospital-Operations-Financial-Analytics-Dashboard-Power-BI/blob/main/Dashboard-2.png
+- Dashboard 3  :- https://github.com/kotrashivakumar1804/Hospital-Operations-Financial-Analytics-Dashboard-Power-BI/blob/main/Dashboard-3.png
 
 
 # 🚀 Future Enhancements
